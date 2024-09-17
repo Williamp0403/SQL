@@ -1,0 +1,1 @@
+Que es SQL(Structured Query Language)?: Es el lenguaje que nos permite trabajar con base de datos relacionales
